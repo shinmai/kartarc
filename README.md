@@ -5,10 +5,9 @@ A simple set of python scripts to pack and unpack files to the datafile format u
 
 ## Usage
 Place *unpack.py* and *WACKY.DAT* in the same folder and run
-'''
+```
 python unpack.py
-'''
-
+```
 If you don't own Wacky Wheels and wish to test the script out for some reason, you can use *TEST.DAT* in the repo. Just edit *unpack.py* to use it instead of *WACKY.DAT*
 
 ---
